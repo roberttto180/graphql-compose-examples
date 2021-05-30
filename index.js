@@ -4,7 +4,7 @@
 import express from 'express';
 import cors from 'cors';
 import { ApolloServer } from 'apollo-server-express';
-import { altairExpress } from 'altair-express-middleware';
+import { altairExpress } from 'altair-express-midd1eware';
 import { express as voyagerMiddleware } from 'graphql-voyager/middleware';
 import http from 'http';
 import { SubscriptionServer } from 'subscriptions-transport-ws';
